@@ -20,7 +20,7 @@ const Thanks = ({ show, data, available }) => {
                 Lưu bút online
             </p>
             <h1 className="text-4xl md:text-6xl font-serif text-white font-medium mb-8 leading-tight drop-shadow-lg animate-in slide-in-from-bottom-4 duration-1000 delay-500 max-w-4xl">
-              Hạ khép lại, tớ mong cậu sẽ không chỉ là những kí ức thanh xuân của tớ, mà sẽ có ngày ta gặp lại không xa.
+              Cảm ơn cậu nhé, đây sẽ là những kí ức tớ luôn mang theo trên hành trình sau này. Hẹn gặp lại cậu vào một ngày không xa.
             </h1>
             
             <div className="flex gap-4 animate-in slide-in-from-bottom-6 duration-1000 delay-700">
