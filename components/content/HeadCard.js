@@ -27,15 +27,15 @@ const HeadCard = () => {
       <div className="max-w-xl mx-auto space-y-8 px-4 text-center">
         <div className="flex items-center justify-center gap-6">
           <div 
-            onClick={() => window.open("https://www.facebook.com/migthy1910208#", "_blank")}
+            onClick={() => window.open("https://www.facebook.com/thanh.lam.349961#", "_blank")}
             className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors cursor-pointer border-b border-border pb-1"
           >
             <ExternalLink className="w-3.5 h-3.5" />
-            <span className="text-sm tracking-wide">Created by @Minh Thùy</span>
+            <span className="text-sm tracking-wide">Created by @Thanh Lâm</span>
           </div>
 
           <div 
-            onClick={() => window.open("https://www.facebook.com/migthy1910208#", "_blank")}
+            onClick={() => window.open("https://www.facebook.com/thanh.lam.349961#", "_blank")}
             className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors cursor-pointer border-b border-border pb-1"
           >
             <Github className="w-3.5 h-3.5" />
